@@ -1,0 +1,6 @@
+[package]
+name = "kwic"
+version = "0.1.0"
+authors = ["Ingrid Lorraine da Silva <ingridsilva71@gmail.com>"]
+
+[dependencies]
